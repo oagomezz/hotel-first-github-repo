@@ -1,15 +1,16 @@
 # GitHub Introduction
 
 ## GitHub Vocabulary
-- git
-- GitHub
-- remote
-- local
-- branch
-- clone
-- repo (repository)
-- GUI
-- markdown
+- git (version control software)
+- GitHub (online platformf or sharing code and tracking versions)
+- remote (in the cloud or on the github platform)
+- local (my computer)
+- branch (path between local and remote)
+- clone (getting a repo on my local)
+- repo (repository) (named folder that is attached to GitHub)
+- GUI (graphic user interface, point and click)
+- markdown - text based language for documenting code
+- CLI (command line interface, not a GUI "terminal")
 - diff (difference in the local and remote)
 
 ### GitHub Commands 
