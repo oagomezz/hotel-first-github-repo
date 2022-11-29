@@ -20,10 +20,10 @@
 - git push origin main
 
 ## Keyboard Shortcuts 
-- command + s (safe)
-- command + x (cut)
-- command + v (paste)
-- command + "spacebar" (opens spotlight search)
-- command + r (refresh)
-- command + c (copy)
-- command + z (undo)
+- `command + s` (safe)
+- `command + x` (cut)
+- `command + v` (paste)
+- `command + "spacebar"` (opens spotlight search)
+- `command + r` (refresh)
+- `command + c` (copy)
+- `command + z` (undo)
